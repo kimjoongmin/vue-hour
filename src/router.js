@@ -8,11 +8,11 @@ Vue.use(VueRouter);
 const router = new VueRouter({
 	mode: "history",
 	routes:[{
-		path: "/vue-hour/",
+		path: "/vue-hour",
 		component: Home
 	},
 	{
-		path: "/vue-hour/About/",
+		path: "/vue-hour/About",
 		component: About
 	}
 	]
