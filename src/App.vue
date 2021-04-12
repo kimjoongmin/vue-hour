@@ -13,6 +13,9 @@
 <script>
 import Header from './components/layout/Header.vue'
 import Footer from './components/layout/Footer.vue'
+import '@/assets/css/injeinc/base.css'
+import '@/assets/css/base.css'
+//import '@/assets/css/content.css'
 
 export default {
   name: 'App',
